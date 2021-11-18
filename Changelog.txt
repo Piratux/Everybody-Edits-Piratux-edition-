@@ -1,0 +1,11 @@
+V1.01: 2021-11-18
+Custom commands:
+- "/listportals": shows a list of all portal coordinates and their id->targets
+
+Miscellaneous:
+- Clicking on minimap with middle mouse button teleports you there
+
+V1.00: 2021-11-17
+Initial release.
+New blocks: 
+- "Smiley door/gate": block that opens/closes if you wear correct smiley
