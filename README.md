@@ -9,10 +9,10 @@
 
 ## What features does this version offer?
 ### New blocks: 
-- "Smiley door/gate": block that opens/closes if you wear correct smiley
+- "Smiley door/gate": block that opens/closes if you wear correct smiley.
 
 ### Custom commands:
-- "/listportals": shows a list of all portal coordinates and their id->targets
+- "/listportals": shows a list of all portal coordinates with their id->targets and allows you to teleport to portal location, upon clicking its coordinate in the list.
 
 ### Miscellaneous:
-- Clicking on minimap with middle mouse button teleports you there
+- Clicking on minimap with middle mouse button teleports you there.
