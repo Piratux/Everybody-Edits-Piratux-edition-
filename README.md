@@ -5,7 +5,7 @@
 [here](https://everybodyedits.com/).
 
 ## How can I try it?
-- You will have to run it through Flash player, which can be found [here](https://github.com/Seb-135/ee-offline/releases/tag/v1.0).
+- You will have to run the ".swf" file through Flash player, which can be found [here](https://github.com/Seb-135/ee-offline/releases/tag/v1.0).
 
 ## What features does this version offer?
 ### New blocks: 
